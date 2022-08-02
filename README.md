@@ -49,6 +49,19 @@ And of course all of Ozric's transactions are verified with my smart contract, e
     "react-scroll": "^1.8.7",
     "vercel": "^27.3.3",
     "web3": "^1.7.4"
+    
+    //Dev
+    "@esbuild-plugins/node-globals-polyfill": "^0.1.1",
+    "@esbuild-plugins/node-modules-polyfill": "^0.1.4",
+    "@tailwindcss/forms": "^0.5.2",
+    "@types/react": "^18.0.15",
+    "@types/react-dom": "^18.0.6",
+    "@vitejs/plugin-react": "^2.0.0",
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.6",
+    "vite": "^3.0.0"
+
 
 ## Help
 
