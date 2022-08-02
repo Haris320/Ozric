@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/75679738/182302058-2a602666-c6e2-4cbf-999b-6ff2ec749b90.png)
 
 
-Ozric is a modern WEB 3.0 application that can make transactions on the ethernet blockchain. It includes smart contracts and was made in React.js with lots of :sparkling_heart:. Website is currently live and is running on the GOERLI Ethernet test server.
+Ozric is a modern WEB 3.0 application that can make transactions on the ethernet blockchain. It includes smart contracts and was made using React.js with lots of :sparkling_heart:. Website is currently live and is running on the GOERLI Ethernet test server.
 
 https://ozric-web.vercel.app
 
