@@ -74,4 +74,4 @@ Reach out to me through my Discord, which is in the footer in my website, if you
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the GNU General Public License v3.0 License - see the LICENSE.md file for details
