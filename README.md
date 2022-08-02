@@ -4,6 +4,7 @@
 Ozric is a modern WEB 3.0 application that can make transactions on the ethernet blockchain. It includes smart contracts and was made using React.js with lots of :sparkling_heart:. Website is currently live and is running on the GOERLI Ethernet test server.
 
 Website: https://ozric-web.vercel.app
+
 Video demo using MetaMask: https://youtu.be/rMFUJUXZBHA
 
 ![image](https://user-images.githubusercontent.com/75679738/182301789-49780d21-00cb-4f51-bfe6-fd2723581e90.png)
