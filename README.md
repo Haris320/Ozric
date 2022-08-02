@@ -50,15 +50,9 @@ And of course all of Ozric's transactions are verified with my smart contract, e
     "vercel": "^27.3.3",
     "web3": "^1.7.4"
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-
 ## Help
 
-Reach out to me through my Discord which is in the footer if you need any help or have questions
+Reach out to me through my Discord, which is in the footer in my website, if you need any help or have questions
 
 ## Author
 
