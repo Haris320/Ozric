@@ -10,7 +10,7 @@ https://ozric-web.vercel.app
 
 ## Description
 
-Ozric uses Hardhat to send transactions through the Blockchain and Alchemy to provide services like analytics, monitoring, alerting, logging and debugging with crypto crypto currencies. You are required to login in to a MetaMask wallet to send any funds or view your transactions.
+Ozric uses Hardhat to send transactions through the Blockchain and Alchemy to provide services like analytics, monitoring, alerting, logging and debugging with crypto currencies. You are required to login in to a MetaMask wallet to send any funds or view your transactions.
 
 
 
